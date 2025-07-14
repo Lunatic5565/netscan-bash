@@ -1,4 +1,4 @@
-🛡️ NetScan v1.0 — Bash Network Scanner
+**🛡️ NetScan v1.0** — Bash Network Scanner
 A simple, interactive network scanner built using pure Bash on Kali Linux.
 NetScan helps discover live hosts, open ports, and services within your local network — ideal for beginners in DevOps, Linux, or Cybersecurity roles.
 
