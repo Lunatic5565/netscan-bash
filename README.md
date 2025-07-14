@@ -16,6 +16,7 @@ NetScan helps discover live hosts, open ports, and services within your local ne
 ✅ Lightweight & Fast — uses standard Linux tools without extra dependencies
 
 🧰 Tools & Concepts Used
+
 Category:	Tools/Concepts
 Scripting:	Bash scripting, functions, loops
 Networking:	ICMP (ping), TCP, subnetting
